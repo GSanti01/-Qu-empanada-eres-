@@ -1,4 +1,4 @@
-# Proyecto_final_aut-matas
+# Proyecto_final_automatas
 Nombres:
 1. Diego Arévalo - 2220066
 2. José Quintero - 2202348
